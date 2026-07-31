@@ -4,7 +4,8 @@
 
 This Power BI dashboard analyzes customer churn data to identify the main factors influencing customer attrition. It provides interactive insights into customer demographics, contract types, service usage, charges, and churn reasons, helping businesses understand why customers leave and where retention efforts should be focused.
 
-<img width="1001" height="547" alt="Screenshot 2026-07-31 130818" src="https://github.com/user-attachments/assets/ec858442-9e80-4ed5-b37f-874240a108c8" />
+<img width="1266" height="692" alt="Screenshot 2026-07-31 144827" src="https://github.com/user-attachments/assets/659d6bb2-262a-4701-bc3f-e773920aef24" />
+
 
 ## 🎯 Objectives
 
